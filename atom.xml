@@ -45,7 +45,7 @@
     <link href="mks.gs/2020/11/01/AVEflex-Install-Photos/"/>
     <id>mks.gs/2020/11/01/AVEflex-Install-Photos/</id>
     <published>2020-11-01T09:51:29.000Z</published>
-    <updated>2020-12-01T11:08:17.812Z</updated>
+    <updated>2020-12-03T00:10:07.553Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/img/aveflex/preomega.png"></p><p><img src="/img/aveflex/install.jpg"></p><p><img src="/img/aveflex/setup.jpg"></p>]]></content>
     
@@ -62,7 +62,9 @@
     
     <category term="projects" scheme="mks.gs/categories/projects/"/>
     
-    <category term="aveflex" scheme="mks.gs/categories/projects/aveflex/"/>
+    <category term="wii" scheme="mks.gs/categories/projects/wii/"/>
+    
+    <category term="aveflex" scheme="mks.gs/categories/projects/wii/aveflex/"/>
     
     
   </entry>
